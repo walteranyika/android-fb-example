@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "166064264811",
+    "project_id": "fireb-98c22",
+    "storage_bucket": "fireb-98c22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166064264811:android:81a6b4555dea89bba8032e",
+        "android_client_info": {
+          "package_name": "com.walter.fireb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166064264811-3i7h5sl401ge4pj20luac5vm9gs7alni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-ybbFAeX3pOoCUyBGGVA7WqI7j-1hWF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166064264811-3i7h5sl401ge4pj20luac5vm9gs7alni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
